@@ -173,6 +173,14 @@
 			]
 		},
 		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "1"
+				}
+			]
+		},
+		{
 			"category": "CONP_status",
 			"values": [
 				{
